@@ -42,7 +42,7 @@ For most companies, the moment a job posting goes live, an inbox begins filling 
 
 ## Demo
 
-📹 [Watch the Demo Video](https://drive.google.com/drive/folders/15uxDVtpZNOiKEkX8Adwem0bAle8y0BBn)
+📹 [Watch the Demo Video](https://drive.google.com/file/d/1scAMGQsG_PJRBQULIStiRAYiK2rIiEBB/view?usp=drive_link)
 
 ---
 
